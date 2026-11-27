@@ -1,0 +1,20 @@
+[
+ {"id":"oats_dry","name":"Oats","emoji":"🥣","portion":"50 g dry","portion_g":50,"per_100g":{"calories":380,"protein":13,"carbs":66,"fat":7,"fiber":10},"labels":[]},
+ {"id":"milk_lowfat","name":"Milk (low-fat)","emoji":"🥛","portion":"250 ml","portion_g":250,"per_100g":{"calories":44,"protein":3.2,"carbs":4.8,"fat":1.2,"fiber":0},"labels":[]},
+ {"id":"egg_boiled","name":"Boiled eggs","emoji":"🥚","portion":"2 large","portion_g":100,"per_100g":{"calories":156,"protein":13,"carbs":1,"fat":11,"fiber":0},"labels":["omelette","deviled_eggs","eggs_benedict"]},
+ {"id":"paneer","name":"Paneer","emoji":"🧀","portion":"100 g","portion_g":100,"per_100g":{"calories":265,"protein":18,"carbs":3.5,"fat":20,"fiber":0},"labels":[]},
+ {"id":"dal_cooked","name":"Cooked dal","emoji":"🍲","portion":"1 cup","portion_g":200,"per_100g":{"calories":90,"protein":6,"carbs":15,"fat":0.5,"fiber":4},"labels":[]},
+ {"id":"rice_cooked","name":"Cooked rice","emoji":"🍚","portion":"1 cup","portion_g":158,"per_100g":{"calories":130,"protein":2.7,"carbs":28,"fat":0.3,"fiber":0.4},"labels":["fried_rice","risotto","paella"]},
+ {"id":"roti_wheat","name":"Whole wheat roti","emoji":"🫓","portion":"1 medium","portion_g":40,"per_100g":{"calories":275,"protein":8.8,"carbs":55,"fat":3.8,"fiber":7.5},"labels":[]},
+ {"id":"chapati","name":"Chapati (plain, no oil)","emoji":"🫓","portion":"1 medium","portion_g":35,"per_100g":{"calories":250,"protein":9,"carbs":50,"fat":2.5,"fiber":7},"labels":[]},
+ {"id":"idli","name":"Idli","emoji":"🍘","portion":"1 piece","portion_g":40,"per_100g":{"calories":140,"protein":4,"carbs":28,"fat":0.4,"fiber":1},"labels":[]},
+ {"id":"dosa_plain","name":"Dosa (plain)","emoji":"🥞","portion":"1 medium","portion_g":80,"per_100g":{"calories":168,"protein":3.9,"carbs":29,"fat":3.7,"fiber":0.9},"labels":[]},
+ {"id":"greek_yogurt","name":"Greek yogurt / thick curd","emoji":"🥄","portion":"170 g","portion_g":170,"per_100g":{"calories":71,"protein":10,"carbs":4.1,"fat":1.8,"fiber":0},"labels":["frozen_yogurt"]},
+ {"id":"banana","name":"Banana","emoji":"🍌","portion":"1 medium","portion_g":118,"per_100g":{"calories":89,"protein":1.1,"carbs":22.8,"fat":0.3,"fiber":2.6},"labels":[]},
+ {"id":"apple","name":"Apple","emoji":"🍎","portion":"1 medium","portion_g":182,"per_100g":{"calories":52,"protein":0.3,"carbs":13.8,"fat":0.2,"fiber":2.4},"labels":[]},
+ {"id":"fruits_mixed","name":"Mixed fruits","emoji":"🍇","portion":"1 bowl","portion_g":150,"per_100g":{"calories":55,"protein":0.7,"carbs":14,"fat":0.2,"fiber":1.8},"labels":[]},
+ {"id":"chicken_breast","name":"Chicken breast, cooked","emoji":"🍗","portion":"100 g","portion_g":100,"per_100g":{"calories":165,"protein":31,"carbs":0,"fat":3.6,"fiber":0},"labels":["chicken_curry","chicken_wings","chicken_quesadilla"]},
+ {"id":"fish_cooked","name":"Fish, grilled or baked","emoji":"🐟","portion":"100 g","portion_g":100,"per_100g":{"calories":150,"protein":22,"carbs":0,"fat":6.5,"fiber":0},"labels":["grilled_salmon","sashimi","fish_and_chips","tuna_tartare","ceviche"]},
+ {"id":"veg_mixed","name":"Mixed vegetables","emoji":"🥦","portion":"1 cup","portion_g":150,"per_100g":{"calories":53,"protein":2,"carbs":10.7,"fat":0.3,"fiber":3.3},"labels":["greek_salad","caesar_salad","caprese_salad","beet_salad","seaweed_salad"]},
+ {"id":"almonds","name":"Almonds","emoji":"🌰","portion":"15 g","portion_g":15,"per_100g":{"calories":580,"protein":21,"carbs":21,"fat":50,"fiber":12.5},"labels":[]}
+]

@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/35514042/README.md)
 # AI Gym & Personal Fitness Assistant (v2)
 
 React + Vite + Three.js frontend, Flask + SQLite backend, scikit-learn workout recommender, optional pretrained food-image model.
