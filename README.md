@@ -14,6 +14,8 @@ python -m venv .venv
 pip install -r requirements.txt
 python train_recommender.py
 python app.py
+pip install -r requirements-food-ai.txt
+python download_food_model.py
 ```
 The API runs on http://127.0.0.1:5000. The SQLite database (`backend/gym.db`) is created automatically on first start and persists between restarts. Uploaded meal photos are stored in `backend/uploads/`.
 
